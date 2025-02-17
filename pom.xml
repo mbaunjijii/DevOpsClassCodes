@@ -47,7 +47,7 @@
         </repository>
     </repositories>
 
-    <pluginRepositories>
+    
         <pluginRepository>
             <id>vaadin-snapshots</id>
             <url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
@@ -57,8 +57,8 @@
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
+        
+    
 <pluginRepositories>
    <pluginRepository> 
     <id>maven2</id> 
